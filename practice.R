@@ -1,0 +1,6 @@
+pop <- read.csv("D:/Machine Learning/Projects/Learning/propop/pop.txt", header=FALSE, stringsAsFactors=FALSE)
+colnames(pop) = c("Pop","Prof")
+plot(pop,col='red')
+model = lm(Prof ~ Pop,pop)
+pred = predict(model,pop)
+abline(model)

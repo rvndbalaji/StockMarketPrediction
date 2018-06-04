@@ -1,0 +1,24 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1525453857267.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2004500047",
+    "id" : "FD7B40F8",
+    "lastKnownWriteTime" : 1528087352,
+    "last_content_update" : 1528087352183,
+    "path" : "D:/GitHub/StockMarketPrediction/achyutha.R",
+    "project_path" : "achyutha.R",
+    "properties" : {
+        "cursorPosition" : "312,0",
+        "docOutlineVisible" : "0",
+        "scrollLine" : "302",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
