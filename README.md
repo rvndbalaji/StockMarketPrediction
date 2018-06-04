@@ -3,7 +3,12 @@
 
 This project has been implemented in **R**
 
-_Latest Result, according to progress:_
+**RESULTS**
 
-![Result](https://github.com/rvndbalaji/StockMarketPrediction/raw/master/result.png)
+
+![Result](https://github.com/rvndbalaji/StockMarketPrediction/raw/master/res_graph.png)
+
+**Overall Predictive Performance**
+
+![Result](https://github.com/rvndbalaji/StockMarketPrediction/raw/master/perform.png)
 
