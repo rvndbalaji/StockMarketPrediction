@@ -1,9 +1,16 @@
 # Stock Market Prediction
-**Stock Market Prediction using Machine Learning** (LSSVR,Firefly) done as a final year project
+**Stock Market Prediction using Machine Learning** (LSSVR,Firefly) done as a final year project. This project has been implemented in **R**
 
-This project has been implemented in **R**
 
-**RESULTS**
+
+**Screenshot**
+
+
+![Result](https://github.com/rvndbalaji/StockMarketPrediction/raw/master/screen.png)
+
+
+
+**Result**
 
 
 ![Result](https://github.com/rvndbalaji/StockMarketPrediction/raw/master/res_graph.png)
