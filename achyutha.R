@@ -42,10 +42,6 @@ if(choice=="N" | choice=="n")
 
 cat("Fetching data for",COMPANY)
 
-#START_DATE = "1985-01-01"
-#END_DATE = "1986-01-01"
-START_DATE = "2017-01-01"
-END_DATE = "2018-01-01"
 
 wantDate = function(dateAsString)
 {
