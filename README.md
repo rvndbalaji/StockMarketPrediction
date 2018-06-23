@@ -19,3 +19,7 @@
 
 ![Result](https://github.com/rvndbalaji/StockMarketPrediction/raw/master/perform.png)
 
+
+
+Improvements
+> Implement Exponentially Weighted Averages
